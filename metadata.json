@@ -1,0 +1,6 @@
+{
+  "name": "SocialNet — Социальная сеть",
+  "description": "Современная социальная сеть с регистрацией, авторизацией, профилями и базой данных MySQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
